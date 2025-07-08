@@ -10,6 +10,7 @@
 ---
 
 ## 📂 폴더 구조
+```
 project-root/
 ├── app/ # Flask 백엔드
 │ ├── controllers/
@@ -26,6 +27,7 @@ project-root/
 ├── config.py
 ├── requirements.txt
 └── README.md
+```
 
 ---
 
