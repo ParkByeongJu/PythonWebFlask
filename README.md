@@ -12,14 +12,14 @@
 ## 📂 폴더 구조
 ```
 project-root/
-├── app/ # Flask 백엔드
+├── app/ 
 │ ├── controllers/
 │ ├── models/
-│ ├── static/ # React 빌드 결과
-│ ├── templates/ # 필요시
+│ ├── static/ 
+│ ├── templates/ 
 │ ├── init.py
 │ └── app.py
-├── frontend/ # React + TypeScript 프론트엔드
+├── frontend/ 
 │ ├── public/
 │ ├── src/
 │ ├── package.json
